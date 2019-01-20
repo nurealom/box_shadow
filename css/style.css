@@ -1,0 +1,56 @@
+/*box shadow start*/
+.green_box{
+	background-color: green;
+	min-height: 200px;
+	width: 20%;
+	box-shadow: 10px 0px pink;
+}
+.yellow{
+	background-color: yellow;
+	min-height:200px;
+	width: 20%;
+	box-shadow: 10px 10px 10px #000000;
+}
+.red_box{
+	background-color:red;
+	min-height:200px;
+	width: 20%;
+	box-shadow: 10px 10px black;
+
+	}
+
+.blue_box{
+		background-color: blue;
+		min-height: 200px;
+		width: 20%;
+		box-shadow: 0px 0px 0px 20px red; 
+	}
+
+/*box shadow end*/
+/*text shadow start*/
+.text1{
+	color: purple;
+	text-shadow: 5px 0px;
+}
+.text2{
+	color: purple;
+	text-shadow: 5px 5px black;
+}
+.text3{
+	color: purple;
+	text-shadow: 5px 5px 10px;
+}
+.text4{
+	color: purple;
+	text-shadow: 5px 5px 10px red;
+	text-align: center;
+}
+.text5{
+	color: purple;
+	text-shadow: 5px 5px 10px yellow,  5px 5px 10px red;
+}
+.text6{
+	color: purple;
+	text-shadow:  5px 5px 10px red;
+}
+/*text shadow end*/
